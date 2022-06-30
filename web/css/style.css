@@ -1,0 +1,67 @@
+.navbar-default 
+{
+	background-color: #366B82 ;
+	padding-right: 1.5%;
+     
+	}
+
+
+#about
+{
+	 	 height: 340px;
+	 background-color:#0D4369 ;   
+	 color: #fff;
+	 padding-top: 100px;
+}
+
+#contact
+{
+	background-color: #ffffff;
+	color: black;
+	height: 460px;
+
+}
+body{
+	background-color: #ffffff;
+}
+#second{
+	height:370px;
+	background-color: black;
+}
+.thumbnail{
+	height: 330px;
+}
+#third{
+	height: 400px;
+	color: black;
+}
+#con{
+	height: 460px;
+}
+#room{
+	height: 1300px;
+}
+
+table.table.table-hover{
+	width: 100%;
+}
+table.table.table-hover tr { width: 25%;
+
+}
+#fee{
+	height: 600px;
+}
+#ta{
+	height: 5px;
+}
+#reg{
+	height: 650px;
+}
+#lo{
+	height: 370px;
+	background-color: black;
+}
+
+#room1{
+	height: 1000px;
+}
